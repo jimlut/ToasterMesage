@@ -11,5 +11,5 @@ add this
   
 and this
 dependencies {
-	        implementation 'com.github.jimlut:ToasterMesage:Tag'
+	        implementation 'com.github.jimlut:ToasterMesage:0.1.0'
 	}
